@@ -1,0 +1,11 @@
+public  class getgithub(){
+
+puplic static void main(String[] arg){
+  system.out.println("hello word!!");
+
+}
+
+
+
+
+}
